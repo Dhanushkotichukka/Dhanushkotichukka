@@ -18,10 +18,10 @@ With strong programming knowledge and a keen eye for **UI/UX design**, I strive 
 ---
 
 ## 📊 Competitive Programming
-- **LeetCode:** 250+ problems solved | Max Rating: *1565*  
+- **LeetCode:** 285+ problems solved | Max Rating: *1565*  
 - **CodeChef:** 400+ problems solved | Max Rating: *1066*  
-- **GeeksforGeeks:** 60+ problems solved | 2★ rating | Contest Rating: *1499*  
-- **HackerRank:** 5★ SQL | 3★ C | 2★ Java | 3★ Problem solving 
+- **GeeksforGeeks:** 130+ problems solved | 2★ rating | Contest Rating: *1499*  
+- **HackerRank:** 5★ SQL | 3★ C | 3★ Java | 3★ Problem solving 
 
 ---
 
